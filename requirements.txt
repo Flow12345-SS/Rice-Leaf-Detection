@@ -1,0 +1,23 @@
+# Core Deep Learning and Machine Learning
+tensorflow>=2.15.0
+keras>=3.0.0
+scikit-learn>=1.3.0
+
+# Data Manipulation and Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Computer Vision and Image Processing
+pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Visualization and Plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Automated PDF Report Generation
+reportlab>=4.0.0
+
+# Web Application Framework
+streamlit>=1.30.0

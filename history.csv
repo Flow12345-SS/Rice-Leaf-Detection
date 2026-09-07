@@ -1,0 +1,12 @@
+Date,Farmer_ID,Disease,Confidence,Severity,Severity_Pct,Action_Taken
+2026-09-01 09:30:15,FARMER-AP-101,Bacterial Blight,99.4%,Severe Infection,58.2%,Sprayed Copper Hydroxide
+2026-09-02 11:14:22,FARMER-KA-204,Brown Spot,98.7%,Moderate Infection,32.4%,Applied Potash & Mancozeb
+2026-09-03 14:45:10,FARMER-TN-305,Leaf Smut,99.1%,Mild Infection,14.8%,Cleaned canopy & pruned
+2026-09-04 10:20:05,FARMER-PB-412,Brown Spot,97.5%,Moderate Infection,28.9%,Applied Carbendazim seed treatment
+2026-09-05 16:12:44,FARMER-WB-521,Bacterial Blight,99.8%,Severe Infection,64.1%,Drained field & sprayed Streptocycline
+2026-09-07 17:05:56,FARMER-IN-901,Bacterial Blight,58.8%,Severe Infection,91.23%,Diagnosed via Dashboard
+2026-09-07 17:09:28,FARMER-IN-901,Bacterial Blight,77.5%,Severe Infection,85.51%,Diagnosed via Dashboard
+2026-09-07 17:12:14,FARMER-IN-901,Bacterial Blight,72.8%,Severe Infection,80.4%
+2026-09-07 17:13:27,FARMER-IN-901,Bacterial Blight,100.0%,Moderate Infection,44.3%
+2026-09-07 17:14:05,FARMER-IN-901,Leaf Smut,40.1%,Mild Infection,8.17%
+2026-09-07 17:19:37,FARMER-IN-901,Leaf Smut,59.1%,Moderate Infection,24.26%
